@@ -2,8 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Tirna Sil</h1>
 <h3 align="center">A passionate QA Engineer from Kolkata.</h3>
+<h3 align="center">I am continually learning and adapting to new testing methodologies and technologies. I enjoy contributing to open-source projects and collaborating with the community to improve software quality.
+</h3>
 
-
+</br>
+</br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 - 📫 How to reach me - **siltirna04@gmail.com**
 
