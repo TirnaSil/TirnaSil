@@ -1,8 +1,8 @@
 ![logo](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Tirna Sil</h1>
-<h3 align="center">A passionate QA Engineer from Kolkata.</h3>
-<h3 align="center">I am continually learning and adapting to new testing methodologies and technologies. I enjoy contributing to open-source projects and collaborating with the community to improve software quality.
+<h3 align="center"> from City Of Joy-Kolkata.</h3>
+<h3 align="center">I am continually learning and adapting to new  methodologies and technologies. I enjoy contributing to open-source projects and collaborating with the community .I love to explore new things each and every day.
 </h3>
 
 </br>
